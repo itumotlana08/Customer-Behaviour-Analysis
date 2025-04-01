@@ -100,6 +100,10 @@ limit 10;
 
 ![Picture9](https://github.com/user-attachments/assets/5f9bd944-1c08-4cf2-b98f-c1a8a3bb2811)
 
+#### Full Dashboard
+
+![Picture7](https://github.com/user-attachments/assets/28950cf3-48c4-43d4-a545-3a93b2e8c3f0)
+
 ### Recommendations
 - Ensure that the restaurant always has a consistent supply of the ingredients that make up the top 10 highest selling menu items, as they’re in high demand and their sales generated 48% of the restaurant’s quarterly revenue.
 - I would advise for the marketing team to advertise the Korean beef bowl strategically on all the restaurant’s channels of advertising. E.g. Calling it the “customer favourite’ or “bestseller”.
